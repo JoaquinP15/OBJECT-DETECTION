@@ -1,0 +1,16 @@
+body{
+    font-family: 'Mouse Memoirs', sans-serif;
+    background-color: rgb(169, 215, 255);
+}
+
+#heading{
+    font-size: 50px;
+}
+
+#status{
+    font-size: 40px;
+}
+
+canvas{
+    border: 7px solid black;
+}
